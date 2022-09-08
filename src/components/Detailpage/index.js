@@ -5,7 +5,6 @@ function DetailPage(props) {
   return (
     <>
       <Col sm={12}
-        style={{ height: "80vh" }}
         className="d-flex justify-content-center align-items-center"
       >
         <img src={props.image} alt="book.png" />
