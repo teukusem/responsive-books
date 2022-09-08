@@ -1,0 +1,6 @@
+export { default as TopicMenu} from './TopicMenu'
+export{ default as NavBar} from './NavBar'
+export{ default as SideBar } from './SideBar'
+export { default as CardComponent} from './Card'
+export { default as BackButton } from './Button'
+export { default as DetailComponent } from './Detailpage'
